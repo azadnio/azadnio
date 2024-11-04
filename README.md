@@ -67,10 +67,10 @@ Google Cloud  ██████░░░░░░░   55%
 ```
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=azadnio&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 Contribution Graph
-![](https://activity-graph.herokuapp.com/graph?username=your-username&theme=redical)
+![](https://activity-graph.herokuapp.com/graph?username=azadnio&theme=redical)
 
 ## 🤝 Connect with me
 <p align="center">
