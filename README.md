@@ -64,6 +64,7 @@ Figma         █████████░░░░   75%
 Docker        ██████░░░░░░░   50%
 Kubernetes    ██████░░░░░░░   50%
 Google Cloud  ██████░░░░░░░   55%
+```
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=false&margin-w=4)
